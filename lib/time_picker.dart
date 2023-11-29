@@ -14,6 +14,7 @@ class _TimePickerRefState extends State<TimePickerRef> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Time Picker Reference'),
+        backgroundColor: Colors.blue,
       ),
       body: Center(
         child: Column(
